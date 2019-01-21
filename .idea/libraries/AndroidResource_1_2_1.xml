@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="AndroidResource-1.2.1">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/AndroidResource-1.2.1.aar/77fd3efbe6390b7fe77f02cfc05ac1a5/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/AndroidResource-1.2.1.aar/77fd3efbe6390b7fe77f02cfc05ac1a5/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.vilyever/AndroidResource/1.2.1/92da9cb13d871fd0c2b7480d8079973940c86ea0/AndroidResource-1.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

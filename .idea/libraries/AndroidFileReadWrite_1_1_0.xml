@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="AndroidFileReadWrite-1.1.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/AndroidFileReadWrite-1.1.0.aar/c9a584a4c7169039a40ce7a3bfc382ea/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/AndroidFileReadWrite-1.1.0.aar/c9a584a4c7169039a40ce7a3bfc382ea/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.vilyever/AndroidFileReadWrite/1.1.0/263294a1694012b2471aaf614243e3bd18b8ef9/AndroidFileReadWrite-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

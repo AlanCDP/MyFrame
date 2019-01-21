@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="xlhratingbar_lib-2.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/xlhratingbar_lib-2.1.aar/ab4a8692f3d52f2edef9f7bdfbfcdd9d/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/xlhratingbar_lib-2.1.aar/ab4a8692f3d52f2edef9f7bdfbfcdd9d/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.xingliuhua/xlhratingbar_lib/2.1/6cee0ace4f7217a9e90b3f33b92f2030d7facf10/xlhratingbar_lib-2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

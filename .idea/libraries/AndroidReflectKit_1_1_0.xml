@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="AndroidReflectKit-1.1.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/AndroidReflectKit-1.1.0.aar/d18fcb4fc4b21227263d53a979cedb6a/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/AndroidReflectKit-1.1.0.aar/d18fcb4fc4b21227263d53a979cedb6a/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.vilyever/AndroidReflectKit/1.1.0/8bbd9f391463d8d3e32b1ad2149587aa5b696490/AndroidReflectKit-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
