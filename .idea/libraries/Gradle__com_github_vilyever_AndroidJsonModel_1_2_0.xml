@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.vilyever:AndroidJsonModel-1.2.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/AndroidJsonModel-1.2.0.aar/a40ceb63d830eaa9ea19748d6a9a7509/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/AndroidJsonModel-1.2.0.aar/a40ceb63d830eaa9ea19748d6a9a7509/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.vilyever/AndroidJsonModel/1.2.0/6f8412efa4ca3b5c92e0d0a55860c926296c9205/AndroidJsonModel-1.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

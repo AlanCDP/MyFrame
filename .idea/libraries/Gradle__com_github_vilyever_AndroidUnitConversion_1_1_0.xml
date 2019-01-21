@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.vilyever:AndroidUnitConversion-1.1.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/AndroidUnitConversion-1.1.0.aar/799db9e086dfec7f936f3fe515955257/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/AndroidUnitConversion-1.1.0.aar/799db9e086dfec7f936f3fe515955257/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.vilyever/AndroidUnitConversion/1.1.0/35e9a4e684e75811417c2e4b932fddbf1673696d/AndroidUnitConversion-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
