@@ -68,7 +68,7 @@ dependencies {
     implementation rootProject.ext.gson
     implementation rootProject.ext.fastJson
     //崩溃dialog
-    implementation rootProject.ext.customactivityoncrash
+//    implementation rootProject.ext.customactivityoncrash
     // dialog
 //    compile project(rootProject.ext.CommonAlertPop)
     implementation rootProject.ext.CommonAlertPop
